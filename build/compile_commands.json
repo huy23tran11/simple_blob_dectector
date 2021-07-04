@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/nguyen/Visual-Studio-Workspace/simple_blob_dectector/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/Obstacle_Reg.dir/Obstacle_Reg.cpp.o -c /home/nguyen/Visual-Studio-Workspace/simple_blob_dectector/Obstacle_Reg.cpp",
+  "file": "/home/nguyen/Visual-Studio-Workspace/simple_blob_dectector/Obstacle_Reg.cpp"
+}
+]
